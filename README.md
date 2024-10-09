@@ -11,8 +11,6 @@ The dataset contained various features related to hotel reservations, such as bo
 ## Project Structure
 - **notebooks/**: Contains the Jupyter notebook that walks through EDA, visualizations.
 - **data/**: Contains the hotel booking dataset.
-- **images/**: Stores visualizations and charts generated from the data.
-- **src/**: Python scripts for data processing and model building.
 
 ## Tools & Technologies
 - Python (Pandas, NumPy)
