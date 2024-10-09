@@ -16,13 +16,13 @@ This project explores hotel booking data through extensive exploratory data anal
 - Jupyter Notebook
 - Matplotlib, Seaborn
 
-  ## Results & Insights
+## Results & Insights
 - The analysis shows that 37% of reservations are canceled, significantly affecting hotel revenue. City hotels have a higher booking volume than resort hotels, likely due to price differences.
 - August sees the highest number of both confirmed and canceled bookings, while January experiences the most cancellations overall.
 - Higher average daily rates (ADR) directly correlate with an increase in cancellations, especially at resort hotels during peak periods.
 - Portugal has the highest rate of cancellations, with 46% of bookings made via online travel agencies.
 
-  ## Suggestions
+## Suggestions
 - Implementing dynamic pricing strategies to lower cancellation rates during peak periods.
 - Targeted marketing campaigns in January to reduce high cancellation rates.
 - Enhancing services in high-cancellation regions, especially in Portugal.
