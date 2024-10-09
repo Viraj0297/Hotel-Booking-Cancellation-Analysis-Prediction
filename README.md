@@ -5,6 +5,9 @@ This project explores hotel booking data through extensive exploratory data anal
 - Exploratory Data Analysis (EDA) with insights from hotel booking patterns.
 - Interactive visualizations using Matplotlib, Seaborn.
 
+## Project Overview:
+The dataset contained various features related to hotel reservations, such as booking lead time, guest demographics, room type, special requests, and booking modifications. We explored the relationships between these variables and cancellation rates to understand key drivers influencing cancellations.
+
 ## Project Structure
 - **notebooks/**: Contains the Jupyter notebook that walks through EDA, visualizations.
 - **data/**: Contains the hotel booking dataset.
